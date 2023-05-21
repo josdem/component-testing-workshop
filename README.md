@@ -1,4 +1,3 @@
-```sh
 ## Component Testing Workshop
 
 This is a getting started project with [Webdriver.io Component Testing](https://github.com/webdriverio/component-testing-examples)
@@ -18,10 +17,10 @@ npm install
 #### To run the project
 
 ```bash
-npx wdio run wdio
+npx run wdio
 ```
 
 #### Read this as reference
 
 - https://josdem.io/techtalk/ux/webdriverio_getting_started/
-```
+
